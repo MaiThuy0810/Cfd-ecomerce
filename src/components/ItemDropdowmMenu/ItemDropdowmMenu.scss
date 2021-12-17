@@ -1,0 +1,13 @@
+@import "../../assets/css/style.scss";
+.ItemDropdowmMenu {
+  h4 {
+    margin-right: 5px;
+    font-weight: 500;
+    font-size: 15px;
+    font-family: Poppins;
+    text-transform: capitalize;
+  }
+  display: flex;
+  align-items: center;
+  margin-right: 40px;
+}
